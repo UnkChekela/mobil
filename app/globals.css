@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-[#e0e0e0] h-screen font-[400] leading-[1.5] 
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;  
+  }
+
+
+.box-shadow {
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.3);
+}
+
+.box-shadow2 {
+  box-shadow: inset 4px 0 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+
+
